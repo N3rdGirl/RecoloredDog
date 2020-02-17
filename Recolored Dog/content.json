@@ -1,0 +1,10 @@
+{
+   "Format": "1.6",
+   "Changes": [
+      {
+      "Action": "Load",
+      "Target": "Animals/dog2",
+      "FromFile": "assets/MyDog.png"
+      }
+    ]
+}
