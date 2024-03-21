@@ -1,4 +1,4 @@
-# RecoloredDog
+# Dog Substitution
 Substitutes two dogs in stardew valley
 I have configured the mod to change the look of dog1.xnb and dog2.xnb to what is basically my dogs. To actually get the changed animal you need to select either the 2nd dog option or 3rd when creating a new farm, or if you feel adventureous, you can change the content.json to pick whichever pet you want.
 
