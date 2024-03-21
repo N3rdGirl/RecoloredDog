@@ -1,0 +1,15 @@
+{
+   "Format": "2.0.0",
+   "Changes": [
+      {
+         "Action": "Load",
+         "Target": "Animals/dog1",
+         "FromFile": "assets/Java.png"
+      },
+      {
+      "Action": "Load",
+      "Target": "Animals/dog2",
+      "FromFile": "assets/Boo.png"
+      }
+    ]
+}
